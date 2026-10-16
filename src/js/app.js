@@ -9,8 +9,6 @@ function init() {
   renderTasks();
   initEvents();
 }
-
-<script type="module" src="./src/js/app.js"></script>
 if (document.readyState === 'loading') {
   document.addEventListener('DOMContentLoaded', init);
 } else {
