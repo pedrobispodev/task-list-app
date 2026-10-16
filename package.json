@@ -1,0 +1,15 @@
+{
+  "name": "task-list",
+  "version": "1.0.0",
+  "description": "Lista de tarefas simples com HTML, Tailwind CSS e JavaScript puro",
+  "type": "module",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/css/input.css -o ./src/css/style.css --watch",
+    "build": "tailwindcss -i ./src/css/input.css -o ./src/css/style.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "keywords": ["task-list", "todo", "tailwind", "vanilla-js"],
+  "license": "MIT"
+}
