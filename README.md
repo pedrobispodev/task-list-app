@@ -53,7 +53,7 @@ Abra `index.html` no navegador (ou use um servidor local como `npx serve`).
 
 1. Faça push para um repositório no GitHub
 2. Em **Settings > Pages**, selecione a branch `main` e pasta `/ (root)`
-3. O site estará disponível em `https://seu-usuario.github.io/task-list/`
+3. O site estará disponível em `https://pedrobispodev.github.io/task-list-app/`
 
 ## Licença
 
